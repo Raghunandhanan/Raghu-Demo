@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'download.png',
+    img: 'download.png',//committing
     title: '',
     info: '',
     info2: '',
